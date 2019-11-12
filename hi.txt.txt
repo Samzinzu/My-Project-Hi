@@ -5,3 +5,5 @@ ADDING SECONG COMMIT @ 5:41 AM
 Adding new branch called: Branch-1-master-My-Project-Hi
 
 ADDING THIRD COMMIT @ 6:01 AM and try merging branch if you can.
+
+dding new branch called: Branch-2-master-My-Project-Hi
